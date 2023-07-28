@@ -1,7 +1,7 @@
 # PHP-project
 
-FrontEnd: Html,Css, Js,bootstrap5
+FrontEnd: Html,Css,Bootstrap5
 
-BackEnd: PHP
+BackEnd: PHP,JavaScript
 
-Database: Mysql
+Database: Myql
